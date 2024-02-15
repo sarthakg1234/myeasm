@@ -1,4 +1,5 @@
-// @author Sarthak Goyal
+# @author Sarthak Goyal
+# Email : sarthakgoyaaal@gmail.com
 import requests
 import re
 import dns.resolver
