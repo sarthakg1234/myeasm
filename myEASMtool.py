@@ -1,5 +1,6 @@
 # @author Sarthak Goyal
-# Email : sarthakgoyaaal@gmail.com
+# Email : sagoyal@grailbio.com
+# Draft Version 1
 import requests
 import re
 import dns.resolver
